@@ -1,0 +1,2 @@
+The best performance was given by Random Forest with SMOTE.
+BEST ROC AUC SCORE is  0.948 at the threshold 0.3.
